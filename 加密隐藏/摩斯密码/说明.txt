@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+-   表示往右
+.   表示往左
+
+
+=======
+-   表示往右
+.   表示往左
+
+
+>>>>>>> 0b9dbfb320a073901bf33fe49fb8fcc85520109c
+翻译链接：http://mathsking.net/morse.htm

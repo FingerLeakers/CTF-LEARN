@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+访问题目链接，将其中js内容copy出来，放入1.js文件中，对该内容进行URL解码，HTML解码，escape解码
+
+解码工具：http://www.jb51.net/tools/zhuanhuan.htm
+
+
+=======
+访问题目链接，将其中js内容copy出来，放入1.js文件中，对该内容进行URL解码，HTML解码，escape解码
+
+解码工具：http://www.jb51.net/tools/zhuanhuan.htm
+
+
+>>>>>>> 0b9dbfb320a073901bf33fe49fb8fcc85520109c
+通读js内容，提交答案

@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+先解密ZmxhZy50eHQ=（base64）,为flag.txt
+
+猜测file参数为文件名，line参数为文件行数。
+
+将index.php加密为base64，访问试试
+
+line从0开始遍历，可以得到index.php的源码
+
+通读源码可以得出cookie的内容（key:idf），然后再用此cookie(在原有cookie的基础下添加新cookie)
+最终读取flag.php的内容
+
+=======
+先解密ZmxhZy50eHQ=（base64）,为flag.txt
+
+猜测file参数为文件名，line参数为文件行数。
+
+将index.php加密为base64，访问试试
+
+line从0开始遍历，可以得到index.php的源码
+
+通读源码可以得出cookie的内容（key:idf），然后再用此cookie(在原有cookie的基础下添加新cookie)
+最终读取flag.php的内容
+
+>>>>>>> 0b9dbfb320a073901bf33fe49fb8fcc85520109c
+wctf{idf_c00kie}
