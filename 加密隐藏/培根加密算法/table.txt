@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 A aaaaa
 B aaaab
 C aaaba
@@ -24,31 +23,4 @@ V babab
 W babba
 X babbb
 Y bbaaa
-=======
-A aaaaa
-B aaaab
-C aaaba
-D aaabb
-E aabaa
-F aabab
-G aabba
-H aabbb
-I abaaa
-J abaab
-K ababa
-L ababb
-M abbaa
-N abbab
-O abbba
-P abbbb
-Q baaaa
-R baaab
-S baaba
-T baabb
-U babaa
-V babab
-W babba
-X babbb
-Y bbaaa
->>>>>>> 0b9dbfb320a073901bf33fe49fb8fcc85520109c
 Z bbaab
